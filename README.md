@@ -1,6 +1,7 @@
 # mck-ppt-skill
 
 一个用于 OpenClaw 的 Skill 仓库模板，目标是将文章、备忘录、会议纪要、商业议题和零散业务素材，整理为 McKi风格的咨询式 PPT 大纲。
+> 注：本文中的 `mck`，指代 mck-style 的咨询表达风格，用于描述结论先行、单页单信息、storyline 驱动的 PPT 大纲写法。
 
 ## 适用场景
 
