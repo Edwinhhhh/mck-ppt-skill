@@ -1,4 +1,4 @@
-# mckinsey-ppt-skill
+# mck-ppt-skill
 
 一个用于 OpenClaw 的 Skill 仓库模板，目标是将文章、备忘录、会议纪要、商业议题和零散业务素材，整理为 McKinsey 风格的咨询式 PPT 大纲。
 
